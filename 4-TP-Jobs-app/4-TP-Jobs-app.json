@@ -1,0 +1,76 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Développeur frontend Vue.js",
+      "company": "Studio Atlas",
+      "location": "Casablanca, Maroc",
+      "type": "Temps plein",
+      "salary": 14000,
+      "experience": 2,
+      "description": "Rejoignez une équipe produit dynamique pour concevoir et développer des interfaces web accessibles et performantes. Vous collaborerez avec les designers et les équipes backend tout au long du cycle de développement.",
+      "requirements": "Maîtrise de JavaScript et de Vue.js, expérience avec les API REST, sensibilité à l’accessibilité et goût du travail en équipe.",
+      "createdAt": "2026-10-20T09:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "title": "Designer UX/UI",
+      "company": "Nova Digital",
+      "location": "Rabat, Maroc",
+      "type": "Temps plein",
+      "salary": 11000,
+      "experience": 3,
+      "description": "Imaginez des expériences numériques claires et utiles pour des produits utilisés par des milliers de personnes. De la recherche utilisateur au prototypage, vous contribuerez à chaque étape.",
+      "requirements": "Expérience en conception UX/UI, maîtrise de Figma, capacité à présenter et défendre ses choix de conception.",
+      "createdAt": "2026-10-18T10:30:00.000Z"
+    },
+    {
+      "id": "3",
+      "title": "Développeur backend Node.js",
+      "company": "Kenz Tech",
+      "location": "Télétravail",
+      "type": "Freelance",
+      "salary": 18000,
+      "experience": 4,
+      "description": "Participez à la conception de services backend robustes et évolutifs. Vous travaillerez sur des API utilisées par plusieurs applications et contribuerez à améliorer leur fiabilité.",
+      "requirements": "Bonne maîtrise de Node.js, conception d’API REST, bases de données relationnelles et intérêt pour les tests automatisés.",
+      "createdAt": "2026-10-15T08:15:00.000Z"
+    },
+    {
+      "id": "4",
+      "title": "Assistant marketing digital",
+      "company": "Maison Verte",
+      "location": "Marrakech, Maroc",
+      "type": "Stage",
+      "salary": 4500,
+      "experience": 0,
+      "description": "Aidez notre équipe à faire grandir une marque engagée. Vous participerez à la création de contenus, au suivi des campagnes et à l’analyse de leurs résultats.",
+      "requirements": "Intérêt pour le marketing digital, qualités rédactionnelles et curiosité pour les réseaux sociaux et l’analyse de données.",
+      "createdAt": "2026-10-12T11:00:00.000Z"
+    },
+    {
+      "id": "5",
+      "title": "Data analyst",
+      "company": "DataWay",
+      "location": "Casablanca, Maroc",
+      "type": "CDI",
+      "salary": 16000,
+      "experience": 2,
+      "description": "Transformez des données complexes en recommandations concrètes. Vous travaillerez avec les équipes métier pour construire des tableaux de bord et répondre à leurs questions.",
+      "requirements": "Maîtrise de SQL et d’Excel, pratique d’un outil de visualisation (Power BI ou Tableau) et esprit analytique.",
+      "createdAt": "2026-10-10T14:00:00.000Z"
+    },
+    {
+      "id": "6",
+      "title": "Chef de projet web",
+      "company": "Pixel Factory",
+      "location": "Tanger, Maroc",
+      "type": "CDD",
+      "salary": 13000,
+      "experience": 3,
+      "description": "Coordonnez la réalisation de projets web variés, de la prise de brief à la mise en ligne. Vous serez le point de contact privilégié entre les clients et les équipes techniques.",
+      "requirements": "Expérience en gestion de projets digitaux, organisation, communication claire et connaissance des méthodes agiles.",
+      "createdAt": "2026-10-08T09:45:00.000Z"
+    }
+  ]
+}
